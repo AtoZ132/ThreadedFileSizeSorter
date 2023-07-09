@@ -1,3 +1,4 @@
 # ThreadedFileSizeSorter
-The project doesn't really have a real world purpose.
-It's just meant for writing something small to get accustomed to some c++17 features.
+The program polls a directory for new files in order to keep track of the files (and their size) in a threaded manner.
+
+The program is meant for practicing working with shared resources in a threaded environment and for getting accustomed with c++17 concepts.
